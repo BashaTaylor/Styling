@@ -1,0 +1,22 @@
+
+
+h1 {
+    background-color: black;
+    font-style: normal;
+    color: white;
+    <h1>color: color
+}
+
+h2 {
+    background-color: blueviolet;
+    color: white;
+    font-style: italic;
+    text-align: center;
+}
+
+h3 {
+    background-color: skyblue;
+    text-align: right;
+    text-decoration: underline;
+    color:darkslateblue ;
+}
